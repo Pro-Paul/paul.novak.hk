@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2017 by original authors @ fontello.com</metadata>
+<defs>
+<font id="patreon" horiz-adv-x="1000" >
+<font-face font-family="patreon" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="patreon-logomark-(black)" unicode="&#xe801;" d="M668 849c-207 0-375-168-375-375 0-206 168-374 375-374 206 0 374 168 374 374 0 207-168 375-374 375m-668-999h183v999h-183" horiz-adv-x="1042" />
+</font>
+</defs>
+</svg>
